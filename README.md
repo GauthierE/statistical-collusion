@@ -34,7 +34,7 @@ This repository considers four **key scenarios** from the paper:
 ## Instructions
 
 1. Create the Dataset:
-- Run the notebook `notebooks/dataset/create_dataset.ipynb` to generate the dataset.
+- Run the notebook `notebooks/dataset/create_synthetic_dataset.ipynb` to generate the dataset.
 - This will create a `data/` folder at the root level containing the dataset.
 
 > [!NOTE]
