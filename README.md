@@ -1,4 +1,4 @@
-# statistical-algorithmic-action
+# statistical-collusion
 
 This repository contains the code and resources for reproducing the experiments and figures presented in the paper.
 
