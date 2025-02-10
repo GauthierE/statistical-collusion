@@ -1,6 +1,6 @@
 # statistical-collusion
 
-This repository contains the code and resources for reproducing the experiments and figures presented in the paper.
+This repository contains the code for reproducing the experiments and figures presented in the paper [Statistical Collusion by Collectives on Learning Platforms](https://arxiv.org/abs/2502.04879).
 
 ## Organization
 
